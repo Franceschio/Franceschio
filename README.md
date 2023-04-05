@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47r16utd5fop8gaweylqdx62zv3wm8aqt1absp7ur1&rid=giphy.gif&ct=s", width= "100"
+<img src="https://media2.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47r16utd5fop8gaweylqdx62zv3wm8aqt1absp7ur1&rid=giphy.gif&ct=s", width= "100" />
 
 <!--
 **Franceschio/Franceschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
