@@ -16,7 +16,7 @@
   
   ---
   
-### 📊 My Stats :
+### 📊 My actual stats :
   <div id="charts" align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Franceschio&theme=highcontrast&border_radius=10" width="400" />
     <br />
