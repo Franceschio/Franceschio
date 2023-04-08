@@ -26,7 +26,7 @@
   
   - 💻 I'm always looking to become better as a front-end web developer.
   - ❓ I'm always looking for new ideas.
-  - 🎮I also love video-games and movies🎥.
+  - 🎮 I also love video-games and movies🎥.
   
   ---
   
