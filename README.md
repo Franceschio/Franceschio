@@ -6,7 +6,7 @@
   <h4> Hi there ✌️✌️✌️ </h4>
 </div>
 <div id="main" align="center">
- I'm a junior, front-end web-developer. 
+ I'm a junior, front-end web developer. 
 </div>
 
 <br />
