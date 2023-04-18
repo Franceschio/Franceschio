@@ -24,7 +24,8 @@
   ---
   ### 📝 About me
   
-  - 💻 I always try to become better as a web developer.
+  - 💻 I like to learn more and more about web development.
+  - 💪 I like to challenge myself.
   - ❓ I'm always looking for new ideas.
   - 🎮 I also love video-games and movies 🎥.
   
