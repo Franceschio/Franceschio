@@ -35,10 +35,8 @@
   <div id="charts" align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=Franceschio&show_icons=true&theme=tokyonight&border_radius=10" width="400" height="200" />
-  
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Franceschio&theme=tokyonight&border_radius=10" width="400" height="200" />
     
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franceschio&theme=tokyonight&hide_progress=true" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franceschio&theme=tokyonight&hide_progress=true" width="400" height="200"/>
   </div>
 <!--
 **Franceschio/Franceschio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
